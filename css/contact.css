@@ -2,6 +2,20 @@ form {
   border-collapse: separate;
   border-right: 10px;
 }
+
+.flexbox-item3 {
+ background-color: #FCECEC;
+ color: #4D4D4D;
+ font-size: 2rem;
+ text-decoration:none ;
+ padding-top: 10px;
+ padding-left: 20px;
+ margin-top: 05px;
+ margin-right: 5px;
+ padding-bottom: 10px;
+ 
+ 
+}
   
 tr {
  height: 7rem;
@@ -22,7 +36,6 @@ td textarea{
   width: 480px;
   height: 7rem;
 }
-
 
 
 .namefield {
